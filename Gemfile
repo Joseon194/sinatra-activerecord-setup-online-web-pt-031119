@@ -8,6 +8,8 @@ gem 'activerecord', '5.1'
 
 
 group :development do
-	gem 'shotgun'
-	gem 'pry'
-end
+		gem 'shotgun'
+		gem 'pry'
+		gem 'tux'
+		gem 'sqlite3'
+	end
